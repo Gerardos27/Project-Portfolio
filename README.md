@@ -9,7 +9,7 @@ Here are some of my featured projects, where I demonstrate my skills in Data Sci
 ## Baseball Swing Speed Predictor
 A Jupyter Notebook project predicting **athlete swing speed** using **Linear Regression** and **Random Forest** models. Data is retrieved from a SQL database, cleaned, filtered, and analyzed to identify which features best predict faster swing speeds.  
 - **Skills Demonstrated:** SQL integration, Python data manipulation, machine learning, feature engineering, model evaluation, data visualization  
-- [View Repository](https://github.com/Gerardos27/baseball-swing-predictor)
+- [View Repository](https://github.com/Gerardos27/Baseball-Swing-Speed-Predictive-Model)
 
 ---
 
