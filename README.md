@@ -31,3 +31,6 @@ A web app where users input scores (0–1) for mobility exercises. After submiss
 A Jupyter Notebook project that predicts Premier League match outcomes using **match commentary, team formation, and player mentions**. Includes data analysis, WordCloud visualizations, and API data retrieval.  
 - **Skills Demonstrated:** Data manipulation with Pandas, data visualization with Matplotlib and WordCloud, feature engineering, predictive modeling  
 - [View Repository](https://github.com/Gerardos27/Premier-League-Game-Result-Predictor)
+
+## Contact
+You can reach me at: **sandovalgerardo172@gmail.com**
