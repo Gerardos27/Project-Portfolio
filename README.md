@@ -15,7 +15,7 @@ A Jupyter Notebook project predicting **athlete swing speed** using **Linear Reg
 
 ## FanZone Highlights – Soccer Match Highlights Platform
 A full-stack web application that aggregates soccer match highlight data using the Scorebat API and transforms it into an interactive, data-driven viewing experience. The application enables users to filter highlights by competition, explore match-level data through visualizations, and persist user-selected favorites in a Supabase backend database. This project emphasizes building a clean data pipeline from API ingestion to visualization and storage.
-- ** Skills Demonstrated:** API data ingestion and transformation, JavaScript front-end development, data visualization, exploratory data analysis, backend data persistence (Supabase), full-stack application architecture
+- **Skills Demonstrated:** API data ingestion and transformation, JavaScript front-end development, data visualization, exploratory data analysis, backend data persistence (Supabase), full-stack application architecture
 - [View Repository](https://github.com/Gerardos27/INST377-Final-Project)
 
 ---
