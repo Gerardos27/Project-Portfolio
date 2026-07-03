@@ -6,10 +6,17 @@ Here are some of my featured projects, where I demonstrate my skills in Data Sci
 
 ---
 
-## Baseball Swing Speed Predictor
-A Jupyter Notebook project predicting **athlete swing speed** using **Linear Regression** and **Random Forest** models. Data is retrieved from a SQL database, cleaned, filtered, and analyzed to identify which features best predict faster swing speeds.  
-- **Skills Demonstrated:** SQL integration, Python data manipulation, machine learning, feature engineering, model evaluation, data visualization  
-- [View Repository](https://github.com/Gerardos27/Baseball-Swing-Speed-Predictive-Model)
+## Credit Card Default Prediction
+A Jupyter Notebook project predicting **credit default risk** on **30,000 customer records** using **Logistic Regression** and **Random Forest** models. Data is analyzed to identify which features best predict default risk, with repayment behavior emerging as the strongest predictor, outperforming demographic features.
+- **Skills Demonstrated:** Classification modeling, Python data manipulation, machine learning, feature importance analysis, model evaluation (AUC-ROC)
+- [View Repository](https://github.com/Gerardos27/INST414/blob/main/module6-assignmentGS.ipynb)
+
+---
+
+## S&P 500 Stock Clustering
+A Jupyter Notebook project applying **K-Means clustering** to **500 S&P 500 stocks** to uncover risk-based groupings beyond traditional sector classifications. Data is analyzed to identify cross-sector similarities between financially related companies, revealing limitations in standard sector-based diversification strategies.
+- **Skills Demonstrated:** Unsupervised learning, clustering, Python data manipulation, feature engineering, financial data analysis
+- [View Repository](https://github.com/Gerardos27/INST414/blob/main/module4-assignment-GS.ipynb)
 
 ---
 
